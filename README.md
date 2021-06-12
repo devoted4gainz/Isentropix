@@ -1,4 +1,4 @@
-# CuValley-project
+# Isentropix - projekt
 Prezentowany model został zaprojektowany jako gotowy black box i może pracować dla nowo dostarczanych danych w takim formacie jak teraz. Ma też jednak potencjał do dalszych modyfikacji pod kątem analizy większej ilości miejsc wstrząsów oraz ich różnych energii.
 
 Nawet dla prostego łańcucha Markowa skonstruowanego na potrzeby tego projektu można z niego wyciągnąć rozkład prawdopodobieństwa wstrząsów które mogą wystąpić w przyszłości, szanse na następujące po sobie serie wstrząsów itd..
